@@ -74,7 +74,7 @@ img{
 banner section Start
 ================================== */
 .banner{
-    background-image: url(../img/unnamed.jpg);
+    background-image: url(img/unnamed.jpg);
     background-position: center center ;
     background-repeat: no-repeat;
     background-size: cover;
